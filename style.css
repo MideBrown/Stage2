@@ -1,0 +1,14 @@
+
+header {
+    display: flex;
+}
+
+
+    h1 {
+    color:maroon;
+    
+}
+* {
+    box-sizing: border-box;
+}
+ 
